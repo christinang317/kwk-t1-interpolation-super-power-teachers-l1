@@ -1,8 +1,7 @@
 # Write your #display_rainbow method here
 
 letters = ["R", "O", "Y", "G", "B", "I", "V"]
-colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
-def display_rainbow(colors)
+//def display_rainbow(colors)
   puts "#{letters[0]}: #{colors[0]},
         #{letters[1]}: #{colors[1]},
         #{letters[2]}: #{colors[2]},
